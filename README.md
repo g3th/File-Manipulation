@@ -8,8 +8,8 @@
 
 Creates a folder named after the movie which it contains, and it does this for every mp4 present in the current directory.
 
-It's a tedious task to move every mp4 by hand; since Plex is specific about naming conventions, a new folder will need to be created, 
-and the respective file will need to be moved into the appropriately named folder. Moviemove is used for this task.
+It's a tedious task to move every mp4 by hand; since Plex is specific about naming conventions, a new folder will need to be created with the same name as the movie, 
+and the respective file will need to be moved there. Moviemove is used for this task.
 
 ### Fileutil
 
