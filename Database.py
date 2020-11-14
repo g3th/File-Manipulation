@@ -6,8 +6,8 @@ import glob
 #from both drives
 
 n=0;movies=[]
-pathm=["/mounted/Media/Movies/*","/mounted/Media/Movies/*"]
-paths=["/mounted1/Media/Tv Shows/*","/mounted1/Media/TV Shows/*"]
+pathm=["/mounted/Media/Movies/*","/mounted1/Media/Movies/*"]
+paths=["/mounted/Media/Tv Shows/*","/mounted1/Media/TV Shows/*"]
 opt=str(input("(1) Movies list (2) Series List: "))
 if opt =="1":
 	path=pathm
