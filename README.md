@@ -2,7 +2,7 @@
 
 ## Various scripts to manipulate files on either Windows or Linux.
 
-**Note:** *These scripts were created to move downloaded movies/series for Plex.*
+**Note:** *These scripts were created specifically to move downloaded movies/series for Plex.*
 
 ### Moviemove
 
