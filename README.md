@@ -1,8 +1,8 @@
 # File-Manipulation
 
-These are various scripts to manipulate files on either Windows or Linux.
+## Various scripts to manipulate files on either Windows or Linux.
 
-These scripts were created to move downloaded movies/series for Plex.
+**Note:** *These scripts were created to move downloaded movies/series for Plex.*
 
 Examples:
 
