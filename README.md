@@ -19,7 +19,7 @@ For instance, all files named "[S01E01]The Office.mp4, [S01E02]The Office.mp4" w
 
 ### DoesitExist
 
-Simply searches your Plex database, generated with Database.py, and determine whether a file is already present. This is used before picking movies/series to download.
+Simply searches your Plex database, generated with Database.py, and determines whether a file is already present. This is used before picking movies/series to download.
 This script will need two lists, serielist and movielist, in order to begin searches.
 
 As you can see, these scripts were specifically written to automate everyday tasks, in this case actions taken repeatedly when downloading/sorting my Plex collection.
